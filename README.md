@@ -28,3 +28,31 @@ vicinity and issue a warning to limit the speed to a safe level. However, the sy
 automatically regulates speed when the speed is not limited to safe level. Additional
 features like sharing accidents locations with the nearest police stations through
 email or sms.
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+## Contributors List and Summary
+
+  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------|----------------|----------------|---------------|-------------|--------------
+Keshav  | Emergency Braking System    | Nil     | Nil   |9   | YES    
+   
+
+## Challenges Faced and How Was It Overcome
+
+1. Initially system fails in dirty roads because of friction->More Power Used for Motors
+2. If system hits by other vehicle not having Emergency Braking system->Mail/sms to nearby Police Station about accdient
+
+
+
+
+
+## Learning Resources
+1. [Circuit Digest](https://circuitdigest.com/microcontroller-projects/raspberry-pi-obstacle-avoiding-robot)
