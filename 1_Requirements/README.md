@@ -63,29 +63,25 @@
 
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
-|HR_01|Length |Implemented|
-|HR_02|Area |Implemented|
-|HR_03|Volume|Implemented|
-|HR_04|Mass |Implemented|
-|HR_05|Speed |Implemented|
-|HR_06|Time|Future|
-|HR_07|Temperature|Future|
+|HR_01|Obstacle Detection |Implemented|
+|HR_02|Emergency Brake|Implemented|
+|HR_03|Email Notification|Implemented|
+|HR_04|SMS Alert |Implemented|
+|HR_05|Driver Authentication |Implemented|
+|HR_06|Location |Future|
+
 
 
 
 ##  Low level Requirements:
-|      ID          |Description                          |  HLR_ID  |Status               |
-|----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Meter|HR_01|Implemented|
-|LR_02|Centimeter|HR_01|Implemented|
-|LR_03|Foot|HR_01|Implemented|
-|LR_04|Inch|HR_01|Implemented|
-|LR_05|Millimeter|HR_01|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
-|LR_12|Cubic Centimeter|HR_03|Implemented|
-|LR_13|Litre|HR_03|Implemented|
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|LR_01|Sensor Working|Implemented|
+|LR_02|Motor Functioning|Implemented|
+|LR_03|Vehicle Stopping|Implemented|
+|LR_04|Vehicle Starting |Implemented|
+|LR_05|LED working|Implemented|
+|LR_06|Working with Dirty Roads|Implemented|
+|LR_07|Power Backup|Implemented|
+|LR_08|Control through App|Implemented|
+
