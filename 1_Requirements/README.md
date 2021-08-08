@@ -60,8 +60,32 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD 
+
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|HR_01|Length |Implemented|
+|HR_02|Area |Implemented|
+|HR_03|Volume|Implemented|
+|HR_04|Mass |Implemented|
+|HR_05|Speed |Implemented|
+|HR_06|Time|Future|
+|HR_07|Temperature|Future|
+
 
 
 ##  Low level Requirements:
---- TBD 
+|      ID          |Description                          |  HLR_ID  |Status               |
+|----------------|-------------------------------|----------|-----------------------------|
+|LR_01|Meter|HR_01|Implemented|
+|LR_02|Centimeter|HR_01|Implemented|
+|LR_03|Foot|HR_01|Implemented|
+|LR_04|Inch|HR_01|Implemented|
+|LR_05|Millimeter|HR_01|Implemented|
+|LR_06|Square Meter|HR_02|Implemented|
+|LR_07|Square Centimeter|HR_02|Implemented|
+|LR_08|Square Foot|HR_02|Implemented|
+|LR_09|MSquare Inch|HR_02|Implemented|
+|LR_10|Square Yard|HR_02|Implemented|
+|LR_11|Cubic Meter|HR_03|Implemented|
+|LR_12|Cubic Centimeter|HR_03|Implemented|
+|LR_13|Litre|HR_03|Implemented|
