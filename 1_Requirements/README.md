@@ -21,6 +21,7 @@
    * System can work with all models of vehicles and different road types.
 
 ## Defining Our System
+
     * The main purpose is to design the automatic braking system in order to avoid the accident.
 ## SWOT ANALYSIS
 ### Strength
