@@ -42,7 +42,7 @@ Folder             | Description
 
   Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|----------------|----------------|---------------|-------------|--------------
-Keshav  | Emergency Braking System    | Nil     | Nil   |9   | YES    
+Keshav  | Emergency Braking System    | Nil     | Nil   |5  | YES    
    
 
 ## Challenges Faced and How Was It Overcome
